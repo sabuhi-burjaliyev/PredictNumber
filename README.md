@@ -1,6 +1,6 @@
 # PredictNumber
 predict.py file tries to guess the number you write in the picture.
-But this one is a bit untidy and can not guess so accurately.
+But this one is a bit untidy and can not guess so accurately. <br/>
 0.png file contains 0. But, program finds it as 9. <br/>
 1.png file contains 1. But, program finds it as 4. <br/>
 2.png file contains 2. But, program finds it as 0. <br/>
